@@ -1,0 +1,2 @@
+The grep command seaches a file for a given string.
+It's basic use is: grep wordToSearch file, where WordToSearch is the string you are loking for, and file is where you want to make the search
