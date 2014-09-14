@@ -1,0 +1,3 @@
+This command counts the number of lines, words and caracters in a file.
+Is used like: wc filename, and returns the 3 numbers in the order describe above.
+
