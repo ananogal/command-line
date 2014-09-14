@@ -1,0 +1,3 @@
+This is the move(mv) command. 
+It is used to move files.
+It's used like this: mv filename directoryname where filename is the file you want to move, and directory name is to where you whant to move it.
